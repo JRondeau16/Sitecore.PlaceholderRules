@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.PlaceholderRules", "Sitecore.PlaceholderRules\Sitecore.PlaceholderRules.csproj", "{2DA4F324-7F0D-4DB0-9D47-DCB59FD7DF8F}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.PlaceholderRules.TDS.Fixtures", "Sitecore.PlaceholderRules.TDS.Fixtures\Sitecore.PlaceholderRules.TDS.Fixtures.scproj", "{CFD110B4-09B2-450E-84C6-8705F2BF1397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA4F324-7F0D-4DB0-9D47-DCB59FD7DF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA4F324-7F0D-4DB0-9D47-DCB59FD7DF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA4F324-7F0D-4DB0-9D47-DCB59FD7DF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA4F324-7F0D-4DB0-9D47-DCB59FD7DF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD110B4-09B2-450E-84C6-8705F2BF1397}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46A1F44-BA14-4118-B941-F63B4E41B189}
+	EndGlobalSection
+EndGlobal
